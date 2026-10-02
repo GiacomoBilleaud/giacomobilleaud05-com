@@ -1,2 +1,1 @@
-# isdswebsite1
-First website for isds 3107
+I learned how to use github repo
